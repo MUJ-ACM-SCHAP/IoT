@@ -305,4 +305,5 @@ void showRGB(int color)
   analogWrite(RED_PIN, redIntensity);
   analogWrite(BLUE_PIN, blueIntensity);
   analogWrite(GREEN_PIN, greenIntensity);
+	cout<<"Peace out\nAlso @mahainn plij dont kill me";
 }
